@@ -1,0 +1,16 @@
+body {
+    background-image: url(falling\ stars.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(157, 204, 188);
+}
+
+h1 {
+    color: rgb(14, 218, 218);
+    background-color: black;
+}
+
+a {
+    color: rgba(0, 252, 168, 0.685);
+}
